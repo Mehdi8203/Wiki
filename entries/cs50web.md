@@ -1,0 +1,3 @@
+CS50's Web
+
+CS50’s Web Programming with Python and JavaScript is an advanced course that builds upon the foundation of CS50x. It delves deeper into designing and implementing web applications using Python, JavaScript, and SQL, along with frameworks like Django, React, and Bootstrap. Students explore topics such as database design, scalability, security, and user experience, gaining practical skills to create and deploy applications on the Internet.
